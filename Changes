@@ -1,17 +1,20 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.04  Sun Feb 25 14:02:20 EST 2001
+
+    * Added 'Storable' as a requirement
+
 1.02  Nov 18 2000
 
-   Added 'Date::Calc' as a prereq
-
+    * Added 'Date::Calc' as a prereq
 
 1.01  Nov 10 2000
 
-   I've heard it said that including the primary file in your Bundle
-   is a good thing...
+    * I've heard it said that including the primary file in your
+      Bundle is a good thing...
 
 1.00  Oct 15 2000
 
-   First version of the Bundlefile (not related to Brundlefly)
+    * First version of the Bundlefile (not related to Brundlefly)
 
 

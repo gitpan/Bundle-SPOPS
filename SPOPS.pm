@@ -1,10 +1,10 @@
 package Bundle::SPOPS;
 
-# $Id$
+# $Id: SPOPS.pm,v 1.3 2001/02/25 18:48:41 lachoy Exp $
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.03';
+$Bundle::SPOPS::VERSION = '1.04';
 
 1;
 
@@ -25,6 +25,8 @@ Date::Format (2.09)
 Data::Dumper
 
 Date::Calc (4.3)
+
+Storable (1.00)
 
 SPOPS::Configure
 
@@ -50,7 +52,7 @@ News, package repository and more information:
 
  http://www.openinteract.org/
 
-=head1 AUTHOR
+=head1 AUTHORS
 
 Chris Winters <chris@cwinters.com>
 
