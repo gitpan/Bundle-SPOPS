@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.05  Fri Jul 20 05:38:14 EDT 2001
+
+    * Added 'Test::More' as a requirement for running tests
+
 1.04  Sun Feb 25 14:02:20 EST 2001
 
     * Added 'Storable' as a requirement

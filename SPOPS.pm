@@ -1,10 +1,10 @@
 package Bundle::SPOPS;
 
-# $Id: SPOPS.pm,v 1.3 2001/02/25 18:48:41 lachoy Exp $
+# $Id: SPOPS.pm,v 1.5 2001/07/20 09:34:57 lachoy Exp $
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.04';
+$Bundle::SPOPS::VERSION = '1.05';
 
 1;
 
@@ -20,6 +20,8 @@ C<perl -MCPAN -e 'install Bundle::SPOPS'>
 
 =head1 CONTENTS
 
+Test::More (0.07)
+
 Date::Format (2.09)
 
 Data::Dumper
@@ -28,7 +30,7 @@ Date::Calc (4.3)
 
 Storable (1.00)
 
-SPOPS::Configure
+SPOPS
 
 =head1 DESCRIPTION
 
