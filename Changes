@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.06  Tue Aug 28 16:50:41 EDT 2001
+
+    * Added 'Class::ISA' since we now use this in the ClassFactory
+
 1.05  Fri Jul 20 05:38:14 EDT 2001
 
     * Added 'Test::More' as a requirement for running tests
