@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.08  Mon Dec 31 00:58:26 EST 2001
+
+   * Added 'Class::Accessor'
+
 1.07  Sat Nov 24 20:13:08 EST 2001
 
    * Added 'Class::Date' and removed 'Date::Calc' and 'Date::Format'

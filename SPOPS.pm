@@ -1,10 +1,10 @@
 package Bundle::SPOPS;
 
-# $Id: SPOPS.pm,v 1.6 2001/08/28 20:41:25 lachoy Exp $
+# $Id: SPOPS.pm,v 1.8 2001/12/31 05:35:22 lachoy Exp $
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.07';
+$Bundle::SPOPS::VERSION = '1.08';
 
 1;
 
@@ -29,6 +29,8 @@ Data::Dumper
 Storable (1.00)
 
 Class::Date (1.00)
+
+Class::Accessor
 
 SPOPS
 
