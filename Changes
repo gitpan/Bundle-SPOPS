@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.07  Sat Nov 24 20:13:08 EST 2001
+
+   * Added 'Class::Date' and removed 'Date::Calc' and 'Date::Format'
+
 1.06  Tue Aug 28 16:50:41 EDT 2001
 
     * Added 'Class::ISA' since we now use this in the ClassFactory

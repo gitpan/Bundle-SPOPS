@@ -4,7 +4,7 @@ package Bundle::SPOPS;
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.06';
+$Bundle::SPOPS::VERSION = '1.07';
 
 1;
 
@@ -24,13 +24,11 @@ Class::ISA
 
 Test::More
 
-Date::Format (2.09)
-
 Data::Dumper
 
-Date::Calc (4.3)
-
 Storable (1.00)
+
+Class::Date (1.00)
 
 SPOPS
 
