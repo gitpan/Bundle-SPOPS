@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.11  Mon Sep 16 17:09:22 EDT 2002
+
+   * Added 'Time::Piece'
+
 1.10  Sat Feb 23 14:40:25 EST 2002
 
    * Added 'Class::Factory'
