@@ -2,7 +2,7 @@ package Bundle::SPOPS;
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.01';
+$Bundle::SPOPS::VERSION = '1.02';
 
 1;
 
@@ -22,6 +22,8 @@ Date::Format (2.09)
 
 Data::Dumper
 
+Date::Calc (4.3)
+
 SPOPS
 
 =head1 DESCRIPTION
@@ -34,6 +36,6 @@ also currently use SPOPS with L<GDBM_File>.
 
 =head1 AUTHOR
 
- Chris Winters (cwinters@intes.net)
+Chris Winters <chris@cwinters.com>
 
 =cut

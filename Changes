@@ -1,5 +1,10 @@
 Revision history for Perl extension Bundle::SPOPS.
 
+1.02  Nov 18 2000
+
+   Added 'Date::Calc' as a prereq
+
+
 1.01  Nov 10 2000
 
    I've heard it said that including the primary file in your Bundle
