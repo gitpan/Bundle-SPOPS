@@ -2,7 +2,7 @@ package Bundle::SPOPS;
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.00';
+$Bundle::SPOPS::VERSION = '1.01';
 
 1;
 
@@ -21,6 +21,8 @@ C<perl -MCPAN -e 'install Bundle::SPOPS'>
 Date::Format (2.09)
 
 Data::Dumper
+
+SPOPS
 
 =head1 DESCRIPTION
 
