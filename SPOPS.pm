@@ -4,7 +4,7 @@ package Bundle::SPOPS;
 
 use strict;
 
-$Bundle::SPOPS::VERSION = '1.09';
+$Bundle::SPOPS::VERSION = '1.10';
 
 1;
 
@@ -38,6 +38,8 @@ Class::Accessor
 
 Devel::StackTrace
 
+Class::Factory
+
 SPOPS
 
 =head1 DESCRIPTION
@@ -45,8 +47,10 @@ SPOPS
 Install the few modules needed for SPOPS. Note that this is the bare
 minimum -- to actually do something with the module you are probably
 going to need at least L<DBI> plus one or more of the supported DBD
-drivers (like L<DBD::mysql>, L<DBD::Sybase>, L<DBD::ASAny>, L<DBD::Pg>
-or L<DBD::ODBC>). You can also currently use SPOPS with L<GDBM_File>.
+drivers (like L<DBD::mysql|DBD::mysql>, L<DBD::Sybase|DBD::Sybase>,
+L<DBD::ASAny|DBD::ASAny>, L<DBD::Pg>, L<DBD::Oracle|DBD::Oracle>,
+L<DBD::SQLite|DBD::SQLite>, or L<DBD::ODBC|DBD::ODBC>). You can also
+currently use SPOPS with L<GDBM_File|GDBM_File>.
 
 =head1 MORE INFORMATION
 
